@@ -1,0 +1,17 @@
+//Authentication commands//
+    'to run the cmd'
+/create a project name/
+      "commands"
+1.laravel new app
+2.cd app 
+3.composer require laravel/ui
+4.php artisan ui bootstrap --auth
+5.npm install
+6.npm run dev
+
+//after run this commands//
+ 'open terminal in vscode'
+       "commands"
+1.php artisan migrate
+2.php artisan serve
+
